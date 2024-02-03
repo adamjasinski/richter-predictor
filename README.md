@@ -1,6 +1,8 @@
 # richter-predictor
 Richter's Predictor: Modeling Earthquake Damage (DSR minicompetition)
 
+## Problem description
+[Competition: Richter's Predictor: Modeling Earthquake Damage](https://www.drivendata.org/competitions/57/nepal-earthquake/)
 
 ## Steps
 
